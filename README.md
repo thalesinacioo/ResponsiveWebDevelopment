@@ -6,3 +6,5 @@ Repositorio para a aula de Responsive Web Development e os seus respectivos trab
   *  **[[Macaco Prego Dourado](https://thalesinacioo.github.io/MacacoPregoDourado/)]**
 * Um modelo de carta 09/06/2022:
   *  **[[Posicionamento](https://github.com/thalesinacioo/Posicionamento/)]**
+* Menu simples 25/06/2022:
+  *  **[[Menu Simples](https://github.com/thalesinacioo/Menu-simples/)]**
